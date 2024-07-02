@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm jai krishna verma</h1>
-<img src="https://media.licdn.com/dms/image/D5616AQFeYHxDNrevwA/profile-displaybackgroundimage-shrink_350_1400/0/1710876797709?e=1718236800&v=beta&t=BUYugdCS5c_oZAjK8CqRnJB2MP6_OXXbADT_nHSlj9A" alt="visit my linkdin account">
+
 <h3 align="center">With 2+ years of experienced Results-oriented Frontend Developer worked in startup environments. Expertise in team deployment methodologies and Agile Scrum. Proven track record in implementing industry best practices in development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaikrishnaverma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jaikrishnaverma-dev" /> </p>
