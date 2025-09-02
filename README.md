@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm jai krishna verma</h1>
 
-<h3 align="center">With 2+ years of experienced Results-oriented Frontend Developer worked in startup environments. Expertise in team deployment methodologies and Agile Scrum. Proven track record in implementing industry best practices in development.</h3>
+<h3 align="center">With 3+ years of experienced Results-oriented Frontend Developer worked in startup environments. Expertise in team deployment methodologies and Agile Scrum. Proven track record in implementing industry best practices in development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaikrishnaverma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jaikrishnaverma-dev" /> </p>
 
